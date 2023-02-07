@@ -1,4 +1,4 @@
 # eletra-shop-site
 
-Site for electronic products shop from 2019,
-was made with languages HTML, CSS, JAVASCRIPT, PHP and SQL.
+A website for an electronics store from 2019,
+created with languages HTML, CSS, JAVASCRIPT, PHP and SQL.
